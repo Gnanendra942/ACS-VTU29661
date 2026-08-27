@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0020-valid-parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0155-min-stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0496-next-greater-element-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0735-asteroid-collision" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0739-daily-temperatures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0901-online-stock-span" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0946-validate-stack-sequences" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1249-minimum-remove-to-make-valid-parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1475-final-prices-with-a-special-discount-in-a-shop" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

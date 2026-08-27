@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0021-merge-two-sorted-lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0023-merge-k-sorted-lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0025-reverse-nodes-in-k-group" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0142-linked-list-cycle-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0160-intersection-of-two-linked-lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0206-reverse-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0234-palindrome-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0876-middle-of-the-linked-list" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
