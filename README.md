@@ -1,18 +1,18 @@
 <div align="center">
 
 # 🧠 Applied Coding Skills (S1L10)
-### *Comprehensive Data Structures & Algorithms Lab — Weeks 1 to 6*
+### *Comprehensive Data Structures, Algorithms & Systems Engineering Lab — Weeks 1 to 8*
 **VTU Student ID: `VTU29661`**
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-51%2F51-6366f1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Java](https://img.shields.io/badge/Language-Java_17+-b07219?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Easy](https://img.shields.io/badge/🟢_Easy-25-10b981?style=for-the-badge)](https://leetcode.com/)
-[![Medium](https://img.shields.io/badge/🟡_Medium-23-f59e0b?style=for-the-badge)](https://leetcode.com/)
-[![Hard](https://img.shields.io/badge/🔴_Hard-3-ef4444?style=for-the-badge)](https://leetcode.com/)
-[![Status](https://img.shields.io/badge/Status-Weeks_1--6_Complete-success?style=for-the-badge)](https://github.com/)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-66%20(60%20LC%20%2B%206%20Systems)-6366f1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Java](https://img.shields.io/badge/Language-Java_17+_/_21+-b07219?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Easy](https://img.shields.io/badge/🟢_Easy-28-10b981?style=for-the-badge)](https://leetcode.com/)
+[![Medium](https://img.shields.io/badge/🟡_Medium-28-f59e0b?style=for-the-badge)](https://leetcode.com/)
+[![Hard](https://img.shields.io/badge/🔴_Hard-4-ef4444?style=for-the-badge)](https://leetcode.com/)
+[![Status](https://img.shields.io/badge/Status-Weeks_1--8_Active-success?style=for-the-badge)](https://github.com/)
 
 <p align="center">
-  A production-ready, benchmarked collection of optimal Java solutions for the <b>Applied Coding Skills (S1L10)</b> course at VTU. Covering core data structures and algorithmic patterns across 6 intensive modules: Arrays, Two Pointers, Linked Lists, Stacks, Monotonic Deques, Circular Ring Buffers, Breadth-First Search (BFS), Binary Tree Traversals, Depth-First Search (DFS), Path Backtracking, Interval Sweeping, Binary Search Trees (BST), Lowest Common Ancestor (LCA), Priority Queues (Min-Heaps), and Top-K Selection Algorithms.
+  A production-ready, rigorously benchmarked collection of optimal Java solutions for the <b>Applied Coding Skills (S1L10)</b> course at Visvesvaraya Technological University (VTU). Spanning core data structures, graph theory, advanced network topologies, and industrial software engineering across 8 intensive modules: Arrays, Two Pointers, Linked Lists, Stacks, Monotonic Deques, Circular Ring Buffers, Breadth-First Search (BFS), Binary Tree Traversals, Depth-First Search (DFS), Path Backtracking, Interval Sweeping, Binary Search Trees (BST), Lowest Common Ancestor (LCA), Priority Queues (Min-Heaps), Top-K Selection, Disjoint Set Union (Union-Find), Multi-Source BFS, State-Space Graph Search, Multi-Level Topological Sorting, KMP String Matching, Kadane's Algorithm, Functional Streams API, and Polymorphic Enterprise OOP Systems.
 </p>
 
 </div>
@@ -29,6 +29,9 @@
 - [📅 Week 4: Queues, Deques, Monotonic Queues & BFS](#-week-4-queues-deques-monotonic-queues--bfs)
 - [📅 Week 5: Binary Trees, Depth-First Search (DFS) & Tree Traversals](#-week-5-binary-trees-depth-first-search-dfs--tree-traversals)
 - [📅 Week 6: Priority Queues, Binary Search Trees & Lowest Common Ancestor](#-week-6-priority-queues-binary-search-trees--lowest-common-ancestor)
+- [📅 Week 7: Graph Foundations, Shortest Paths & Bridge Module](#-week-7-graph-foundations-shortest-paths--bridge-module)
+- [📅 Week 8: Advanced Graphs, Union-Find, Multi-Source BFS & Topological Sort](#-week-8-advanced-graphs-union-find-multi-source-bfs--topological-sort)
+- [🧪 Applied Software Engineering Lab Experiments](#-applied-software-engineering-lab-experiments)
 - [🧠 Algorithmic Patterns Mastered](#-algorithmic-patterns-mastered)
 - [🚀 Local Setup & Execution Guide](#-local-setup--execution-guide)
 
@@ -46,16 +49,20 @@
 | **Week 4** | FIFO Queues, Ring Buffers, Monotonic Deques & Tree BFS | 2 | 6 | 1 | **9** | ![Completed](https://img.shields.io/badge/100%25-Complete-brightgreen?style=flat-square) | [Browse Week 4](./Week-4/README.md) |
 | **Week 5** | Binary Trees, DFS Traversals, Path Backtracking & Interval Sweeps | 7 | 2 | 0 | **9** | ![Completed](https://img.shields.io/badge/100%25-Complete-brightgreen?style=flat-square) | [Browse Week 5](./Week-5/README.md) |
 | **Week 6** | Priority Queues, BST Properties, Lowest Common Ancestor & Top-K | 0 | 6 | 0 | **6** | ![Completed](https://img.shields.io/badge/100%25-Complete-brightgreen?style=flat-square) | [Browse Week 6](./Week-6/README.md) |
-| **Total** | **All 6 Modules** | **25** | **23** | **3** | **51** | ![Complete](https://img.shields.io/badge/51%2F51-100%25-6366f1?style=flat-square) | — |
+| **Week 7** | Graph Foundations, Adjacency Representations & Connectivity | — | — | — | **Bridge** | ![Syllabus Bridge](https://img.shields.io/badge/Theory%20%26%20Lab-Complete-blue?style=flat-square) | [View Week 7 Overview](#-week-7-graph-foundations-shortest-paths--bridge-module) |
+| **Week 8** | Advanced Graphs, Disjoint Sets (Union-Find), Multi-Source BFS, Topological Sort | 3 | 5 | 1 | **9** | ![Completed](https://img.shields.io/badge/100%25-Complete-brightgreen?style=flat-square) | [Browse Week 8](./Week-8/README.md) |
+| **Lab Tasks** | Applied Systems Engineering, Streams, Kadane, KMP, OOP Architectures | 1 | 4 | 1 | **6** | ![Completed](https://img.shields.io/badge/100%25-Complete-brightgreen?style=flat-square) | [Browse Lab Tasks](./Lab%20Tasks/README.md) |
+| **Total** | **All 8 Modules + Industrial Software Systems** | **28** | **28** | **4** | **66** | ![Complete](https://img.shields.io/badge/66%2F66-100%25-6366f1?style=flat-square) | — |
 
 ### 🎯 Overall Difficulty Distribution
 
-```
-🟢 Easy       [25 Solved]  █████████████████████████     49.0%
-🟡 Medium     [23 Solved]  ███████████████████████       45.1%
-🔴 Hard       [ 3 Solved]  ███                            5.9%
+```text
+🟢 Easy       [28 Solved]  ████████████████████████     46.7%
+🟡 Medium     [28 Solved]  ████████████████████████     46.7%
+🔴 Hard       [ 4 Solved]  ███                           6.6%
 ─────────────────────────────────────────────────────────────
-Total: 51 Solved | 100% Java Solutions | All Test Cases Passed
+Total: 60 LeetCode Problems + 6 Lab System Experiments = 66 Solutions
+All Benchmarked | 100% Java Implementations | All Test Cases Passed
 ```
 
 ---
@@ -120,14 +127,33 @@ Total: 51 Solved | 100% Java Solutions | All Test Cases Passed
 │   ├── 0145-binary-tree-postorder-traversal/             # Recursive Postorder traversal (L-R-Root)
 │   ├── 0257-binary-tree-paths/                           # Root-to-leaf string path construction
 │   └── 0986-interval-list-intersections/                 # Two-pointer interval sweep & overlap
-└── 📁 Week-6/                                            # Week 6: Priority Queues, BSTs & LCA
-    ├── 📄 README.md                                      # Week 6 overview & problem index
-    ├── 0215-kth-largest-element-in-an-array/             # Min-Heap / Stream order statistics
-    ├── 0230-kth-smallest-element-in-a-bst/               # BST Inorder traversal with early termination
-    ├── 0235-lowest-common-ancestor-of-a-binary-search-tree/# BST numerical split LCA search
-    ├── 0236-lowest-common-ancestor-of-a-binary-tree/     # Postorder DFS lowest divergence detection
-    ├── 0347-top-k-frequent-elements/                     # HashMap + bounded Min-Heap
-    └── 0373-find-k-pairs-with-smallest-sums/             # Min-Heap multi-stream sorted pair merge
+├── 📁 Week-6/                                            # Week 6: Priority Queues, BSTs & LCA
+│   ├── 📄 README.md                                      # Week 6 overview & problem index
+│   ├── 0215-kth-largest-element-in-an-array/             # Min-Heap / Stream order statistics
+│   ├── 0230-kth-smallest-element-in-a-bst/               # BST Inorder traversal with early termination
+│   ├── 0235-lowest-common-ancestor-of-a-binary-search-tree/# BST numerical split LCA search
+│   ├── 0236-lowest-common-ancestor-of-a-binary-tree/     # Postorder DFS lowest divergence detection
+│   ├── 0347-top-k-frequent-elements/                     # HashMap + bounded Min-Heap
+│   └── 0373-find-k-pairs-with-smallest-sums/             # Min-Heap multi-stream sorted pair merge
+├── 📁 Week-8/                                            # Week 8: Advanced Graphs, Union-Find & Multi-Source BFS
+│   ├── 📄 README.md                                      # Week 8 overview & problem index
+│   ├── 0049-group-anagrams/                              # Frequency array / Sorted canonical key hashing
+│   ├── 0200-number-of-islands/                           # 2D Grid DFS / Connected component marking
+│   ├── 0202-happy-number/                                # Floyd's Tortoise & Hare cycle detection
+│   ├── 0542-01-matrix/                                   # Multi-Source BFS simultaneous frontier expansion
+│   ├── 0721-accounts-merge/                              # Disjoint Set Union (DSU) with rank & path compression
+│   ├── 0733-flood-fill/                                  # 4-directional grid DFS wave propagation
+│   ├── 0929-unique-email-addresses/                      # Domain & local name string normalization
+│   ├── 1129-shortest-path-with-alternating-colors/       # State-tracking BFS with 2D visited array
+│   └── 1203-sort-items-by-groups-respecting-dependencies/# Dual-graph hierarchical topological sort
+└── 📁 Lab Tasks/                                         # Applied Software Engineering & System Experiments
+    ├── 📄 README.md                                      # Lab experiments overview & execution guide
+    ├── 01-Salary-Transformation-System/                  # Java 8 Streams API, immutable pipelines, map/forEach
+    ├── 02-RealTime-Stream-Analytics-Engine/              # Sliding window aggregations & custom comparators
+    ├── 03-Maximum-Profit-Analyzer-Kadane/                # Kadane's single-pass dynamic programming
+    ├── 04-DNA-Pattern-Search-KMP/                        # Knuth-Morris-Pratt (KMP) & LPS preprocessing
+    ├── 05-Banking-Transaction-System-OOP/                # Robust OOP, encapsulation & balance invariant validation
+    └── 06-RideSharing-Platform-Simulator/                # Abstract class inheritance, polymorphism & custom exceptions
 ```
 
 ---
@@ -243,45 +269,106 @@ Total: 51 Solved | 100% Java Solutions | All Test Cases Passed
 
 ---
 
+## 📅 Week 7: Graph Foundations, Shortest Paths & Bridge Module
+
+> **Focus:** Graph representation models (Adjacency Lists, Adjacency Matrices, Edge Lists), fundamental graph traversals (Breadth-First Search for unweighted shortest paths, Depth-First Search for reachability), cycle detection algorithms across directed & undirected networks, bipartite graph validation via two-coloring, and topological ordering principles.  
+> 💡 *Note: Serves as the formal curriculum bridge connecting tree DFS/BFS algorithms (Weeks 4 & 5) directly to the advanced network topologies, multi-source BFS, and disjoint-set structures mastered in Week 8.*
+
+### Core Algorithmic Paradigms Introduced in Week 7:
+1. **Adjacency Representation:** Moving beyond hierarchical `TreeNode` left/right pointers to arbitrary graph topologies modeled via `Map<Integer, List<Integer>>` or `ArrayList<Integer>[]`.
+2. **Cycle Detection (DFS State Machine):** Tracking vertex states using three colors:
+   - `0 (White / Unvisited)`: Vertex has not yet been discovered.
+   - `1 (Gray / Visiting)`: Vertex is currently in the active recursion call stack. Encountering a Gray neighbor indicates a **back-edge** (directed cycle).
+   - `2 (Black / Visited)`: Vertex and its entire connected sub-graph have been completely explored.
+3. **Topological Sorting (Kahn's Algorithm & Post-order DFS):** Linear ordering of vertices in Directed Acyclic Graphs (DAGs) such that for every directed edge $u 	o v$, vertex $u$ comes before $v$.
+4. **Bipartite Verification:** Determining if a graph can be 2-colored such that no two adjacent vertices share the same color using standard BFS queue expansion.
+
+---
+
+## 📅 Week 8: Advanced Graphs, Union-Find, Multi-Source BFS & Topological Sort
+
+> **Focus:** Advanced graph algorithms, Disjoint Set Union (DSU / Union-Find) with path compression and union by rank, multi-source breadth-first search (0-1 matrix distance transforms), state-tracking BFS with edge constraints, wave propagation grid DFS, and multi-level topological sorting across hierarchical dependency DAGs.  
+> 🔗 **Module Link:** [Detailed Week 8 Documentation](./Week-8/README.md)
+
+| # | Problem Title | Difficulty | Key Pattern / Concept | Time | Space | Performance | Solution | Notes |
+| :---: | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | HashMap / Canonical Sorted String Key | $O(N \cdot K \log K)$ | $O(N \cdot K)$ | `6 ms (98.97%)` | [solution.java](./Week-8/0049-group-anagrams/solution.java) | [README.md](./Week-8/0049-group-anagrams/README.md) |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | Connected Components / 2D Grid DFS | $O(R \cdot C)$ | $O(R \cdot C)$ | `4 ms (46.55%)` | [solution.java](./Week-8/0200-number-of-islands/solution.java) | [README.md](./Week-8/0200-number-of-islands/README.md) |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | Floyd's Cycle Detection / State Space Graph | $O(\log N)$ | $O(1)$ | `1 ms (78.08%)` | [solution.java](./Week-8/0202-happy-number/solution.java) | [README.md](./Week-8/0202-happy-number/README.md) |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | Multi-Source BFS / Simultaneous Frontier | $O(R \cdot C)$ | $O(R \cdot C)$ | `13 ms (90.86%)` | [solution.java](./Week-8/0542-01-matrix/solution.java) | [README.md](./Week-8/0542-01-matrix/README.md) |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | Disjoint Set Union (Union by Rank + Path Comp) | $O(NK \log(NK))$ | $O(NK)$ | `29 ms (80.41%)` | [solution.java](./Week-8/0721-accounts-merge/solution.java) | [README.md](./Week-8/0721-accounts-merge/README.md) |
+| 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | 4-Directional Grid DFS / Wave Propagation | $O(N)$ | $O(N)$ | `0 ms (100.00%)` | [solution.java](./Week-8/0733-flood-fill/solution.java) | [README.md](./Week-8/0733-flood-fill/README.md) |
+| 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen?style=flat-square) | String Normalization & Unique Hashing | $O(N \cdot L)$ | $O(N \cdot L)$ | `13 ms (52.32%)` | [solution.java](./Week-8/0929-unique-email-addresses/solution.java) | [README.md](./Week-8/0929-unique-email-addresses/README.md) |
+| 1129 | [Shortest Path Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | ![Medium](https://img.shields.io/badge/Medium-yellow?style=flat-square) | State-Space BFS / 2D Visited Array `(u, color)` | $O(V + E)$ | $O(V + E)$ | `11 ms (12.61%)` | [solution.java](./Week-8/1129-shortest-path-with-alternating-colors/solution.java) | [README.md](./Week-8/1129-shortest-path-with-alternating-colors/README.md) |
+| 1203 | [Sort Items by Groups Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | ![Hard](https://img.shields.io/badge/Hard-red?style=flat-square) | Hierarchical Dual-Graph Topological Sort | $O(V + E)$ | $O(V + E)$ | `41 ms (31.01%)` | [solution.java](./Week-8/1203-sort-items-by-groups-respecting-dependencies/solution.java) | [README.md](./Week-8/1203-sort-items-by-groups-respecting-dependencies/README.md) |
+
+---
+
+## 🧪 Applied Software Engineering Lab Experiments
+
+> **Focus:** Enterprise Java engineering, functional programming pipelines, real-time stream processing, dynamic programming optimizations, high-performance string matching algorithms, and production OOP architecture with custom exception hierarchies.  
+> 🔗 **Module Link:** [Detailed Lab Tasks Documentation](./Lab%20Tasks/README.md)
+
+| Exp # | Experiment Title | Core Focus & Paradigms | Time | Space | Implementation | Documentation |
+| :---: | :--- | :--- | :---: | :---: | :---: | :---: |
+| 01 | **Salary Transformation System** | Functional Programming, Stream API (`map`, `forEach`), Immutability | $O(N)$ | $O(N)$ | [Task1.java](./Lab%20Tasks/01-Salary-Transformation-System/Task1.java) | [README.md](./Lab%20Tasks/01-Salary-Transformation-System/README.md) |
+| 02 | **Real-Time Stream Analytics Engine** | Stream Aggregations (`computeIfAbsent`, `mapToInt`, `average`), Custom Multi-Criteria Sorting | $O(N \log N)$ | $O(N)$ | [Task2.java](./Lab%20Tasks/02-RealTime-Stream-Analytics-Engine/Task2.java) | [README.md](./Lab%20Tasks/02-RealTime-Stream-Analytics-Engine/README.md) |
+| 03 | **Maximum Profit Analyzer** | Kadane's Algorithm, Contiguous Subarray Optimization, Single-Pass DP | $O(N)$ | $O(1)$ | [Task3.java](./Lab%20Tasks/03-Maximum-Profit-Analyzer-Kadane/Task3.java) | [README.md](./Lab%20Tasks/03-Maximum-Profit-Analyzer-Kadane/README.md) |
+| 04 | **Intelligent DNA Pattern Search** | Knuth-Morris-Pratt (KMP) Algorithm, Longest Prefix Suffix (LPS) Table, Zero Backtracking | $O(N + M)$ | $O(M)$ | [Task4.java](./Lab%20Tasks/04-DNA-Pattern-Search-KMP/Task4.java) | [README.md](./Lab%20Tasks/04-DNA-Pattern-Search-KMP/README.md) |
+| 05 | **Banking Transaction System** | Robust Object-Oriented Modeling, Encapsulation, State Mutation & Invariant Enforcement | $O(T)$ | $O(1)$ | [Task5.java](./Lab%20Tasks/05-Banking-Transaction-System-OOP/Task5.java) | [README.md](./Lab%20Tasks/05-Banking-Transaction-System-OOP/README.md) |
+| 06 | **Ride Sharing Platform Simulator** | Inheritance, Abstract Classes, Runtime Polymorphic Fare Dispatch, Custom Checked Exceptions | $O(T)$ | $O(T)$ | [Task6.java](./Lab%20Tasks/06-RideSharing-Platform-Simulator/Task6.java) | [README.md](./Lab%20Tasks/06-RideSharing-Platform-Simulator/README.md) |
+
+---
+
 ## 🧠 Algorithmic Patterns Mastered
 
 ```mermaid
 graph TD
-    A[Core Algorithmic Foundations] --> B[Arrays & Strings]
-    A --> C[Linked Lists]
-    A --> D[Stacks & Simulation]
-    A --> E[Queues & BFS]
-    A --> F[Binary Trees & DFS]
-    A --> G[Intervals & Sweep-Line]
-    A --> H[Priority Queues & BSTs]
+    A[Master Algorithmic & Systems Architecture] --> B[Arrays, Strings & Pointers]
+    A --> C[Linked Lists & Node Sequences]
+    A --> D[Stacks & State Simulation]
+    A --> E[Queues, Ring Buffers & BFS]
+    A --> F[Binary Trees & Tree Traversals]
+    A --> G[Priority Queues & BSTs]
+    A --> H[Advanced Graphs & Network Topologies]
+    A --> I[Industrial Software Engineering & Streams]
 
-    B --> B1[Two Pointers: Inward / Partition]
-    B --> B2[Prefix & Suffix Accumulation]
-    B --> B3[Divide & Conquer Binary Search]
+    B --> B1[Two Pointers: Inward Convergence & 3-Way Partition]
+    B --> B2[Prefix & Suffix Array Accumulation]
+    B --> B3[Divide & Conquer Logarithmic Binary Search]
 
-    C --> C1[Floyd's Tortoise & Hare Cycle Detection]
+    C --> C1[Floyd's Tortoise & Hare Cycle & Midpoint Detection]
     C --> C2[In-Place Reversal & K-Group Batching]
-    C --> C3[Min-Heap K-Way Sorted Merging]
+    C --> C3[Min-Heap K-Way Sorted List Merging]
 
-    D --> D1[LIFO Bracket Parsing]
-    D --> D2[Monotonic Decreasing Stacks: Next Greater]
-    D --> D3[Span Compression & State Simulation]
+    D --> D1[LIFO Bracket Parsing & Expression Validation]
+    D --> D2[Monotonic Decreasing Stacks: Next Greater Queries]
+    D --> D3[Span Compression & Collision Simulation]
 
-    E --> E1[Circular Ring Buffers: Modulo Arithmetic]
-    E --> E2[Monotonic Deques: Sliding Window Max]
-    E --> E3[Tree Breadth-First Search Level Order]
+    E --> E1[Circular Ring Buffers: Modulo Zero-Allocation]
+    E --> E2[Monotonic Deques: Sliding Window Extremums]
+    E --> E3[Tree Breadth-First Search Level Order & Right View]
 
-    F --> F1[Pre / In / Postorder Traversals]
-    F --> F2[Explicit Stack Iterative DFS]
-    F --> F3[Dual-Tree Structural Equivalence & Mirror Reflection]
-    F --> F4[Root-to-Leaf Path Backtracking]
+    F --> F1[Inorder / Preorder / Postorder Traversals]
+    F --> F2[Explicit Stack Iterative DFS Simulation]
+    F --> F3[Dual-Tree Structural Equivalence & Bilateral Symmetry]
+    F --> F4[Backtracking DFS Root-to-Leaf Path Accumulation]
 
-    G --> G1[Two-Pointer Interval Overlap Detection]
+    G --> G1[BST Invariants & Early-Stop Inorder Statistics]
+    G --> G2[Lowest Common Ancestor: BST vs General Binary Tree]
+    G --> G3[Bounded Min-Heaps for Top-K Streaming Elements]
+    G --> G4[Multi-Stream Frontier K-Way Expansion]
 
-    H --> H1[BST Invariants & Early-Stop Inorder]
-    H --> H2[Lowest Common Ancestor: BST & Binary Tree]
-    H --> H3[Bounded Min-Heaps: Top-K & Order Statistics]
-    H --> H4[Multi-Stream Frontier K-Way Merging]
+    H --> H1[Disjoint Set Union: Path Compression & Union by Rank]
+    H --> H2[Multi-Source BFS: Simultaneous Level-0 Expansion]
+    H --> H3[State-Space BFS: Edge Properties & Multidimensional Visited]
+    H --> H4[Hierarchical Topological Sort: Item & Group Level DAGs]
+    H --> H5[Grid DFS & Connected Components Flood Fill]
+
+    I --> I1[Functional Reactive Pipelines: Java 8+ Streams API]
+    I --> I2[Kadane's Algorithm: O(N) Maximum Contiguous Subarrays]
+    I --> I3[Knuth-Morris-Pratt KMP: LPS Prefix Automata]
+    I --> I4[Polymorphic Dispatch & Domain Exception Hierarchies]
 ```
 
 ### 1. Two Pointers & In-Place Partitions
@@ -293,6 +380,7 @@ graph TD
 ### 2. Fast & Slow Pointer (Floyd's Tortoise & Hare)
 - Detects cycles and resolves the cycle origin in **Linked List Cycle II (0142)** with $O(1)$ space.
 - Identifies list midpoints in a single pass in **Middle of the Linked List (0876)** and **Palindrome Linked List (0234)**.
+- Transferred to abstract mathematical states in **Happy Number (0202)** where $f(x) = \sum 	ext{digits}^2$ defines next-state node transitions with $O(1)$ memory.
 
 ### 3. Monotonic Stacks
 - Eliminates $O(N^2)$ brute-force searches for next-greater or next-smaller elements in **Next Greater Element I (0496)**, **Daily Temperatures (0739)**, and **Final Prices (1475)**.
@@ -337,12 +425,44 @@ graph TD
 ### 13. Multi-Stream K-Way Frontier Search
 - Generalizes Dijkstra-style search space expansion across sorted Cartesian products in **Find K Pairs with Smallest Sums (0373)**, initializing a min-heap with the first column and dynamically enqueuing the next column elements in $O(k \log(\min(N_1, k)))$ time.
 
+### 14. Disjoint Set Union (DSU / Union-Find) with Path Compression & Union by Rank
+- Manages dynamic equivalence relations across clusters in **Accounts Merge (0721)**.
+- **Path Compression:** Flattens tree structures during `findUltimateParent()` so subsequent queries run in nearly $O(1)$.
+- **Union by Rank:** Attaches shallower trees to deeper roots, guaranteeing tree height stays strictly bounded by $O(lpha(N))$ (inverse Ackermann complexity).
+
+### 15. Multi-Source BFS & Simultaneous Frontier Propagation
+- Solves shortest-distance field computations on 2D matrices in **01 Matrix (0542)** by seeding the FIFO queue with all target cells ($0$) simultaneously at timestamp $t=0$, radiating outward level by level in $O(R \cdot C)$ time without re-traversal.
+
+### 16. State-Space BFS & Constrained Edge Traversal
+- Solves alternating edge constraint queries in **Shortest Path with Alternating Colors (1129)**.
+- Standard $1	ext{D}$ visited tracking fails because a node can be revisited with a different incoming edge color. Extends state dimensionality to `visited[node][incomingColor]`, exploring valid paths in $O(V + E)$ time.
+
+### 17. Multi-Level Topological Sorting (Hierarchical DAGs)
+- Disentangles inter-group and intra-group dependency deadlocks in **Sort Items by Groups Respecting Dependencies (1203)**.
+- Builds two distinct dependency graphs (one at item level and one at group level), executes topological sorts on both using in-degree reduction (Kahn's algorithm), and reconstitutes a globally valid sequence in $O(V + E)$ time.
+
+### 18. Knuth-Morris-Pratt (KMP) String Matching & LPS Automata
+- Implemented in **Intelligent DNA Pattern Search (Lab Exp 4)** to eliminate backtracking in text stream searches.
+- Precomputes the Longest Proper Prefix which is also a Suffix (LPS array) in $O(M)$ time, achieving guaranteed $O(N + M)$ search time regardless of pattern redundancy.
+
+### 19. Dynamic Programming & Kadane's Local-Global Optimization
+- Implemented in **Maximum Profit Analyzer (Lab Exp 3)**.
+- Maintains dynamic recurrence: $	ext{currentSum} = \max(	ext{nums}[i], 	ext{currentSum} + 	ext{nums}[i])$ and $	ext{maxSum} = \max(	ext{maxSum}, 	ext{currentSum})$, resolving maximum contiguous subarray sums in a single pass ($O(N)$ time, $O(1)$ space).
+
+### 20. Java Stream API & Functional Reactive Pipelines
+- Implemented in **Salary Transformation System (Lab Exp 1)** and **Real-Time Stream Analytics Engine (Lab Exp 2)**.
+- Uses declarative processing (`stream()`, `filter()`, `map()`, `mapToInt()`, `average()`, `sorted()`, `collect()`) with zero mutation of original source data and thread-safe pipelining.
+
+### 21. Object-Oriented Domain Architecture & Polymorphic Dispatch
+- Implemented in **Banking Transaction System (Lab Exp 5)** and **Ride Sharing Platform Simulator (Lab Exp 6)**.
+- Models business domain rules through strict encapsulation, abstract parent classes (`Vehicle`), runtime polymorphic dispatch (`calculateFare()`), and checked exception architectures (`InvalidBookingException`).
+
 ---
 
 ## 🚀 Local Setup & Execution Guide
 
 ### Prerequisites
-- **Java Development Kit (JDK):** Version 17 or higher recommended (e.g., OpenJDK 17 / 21)
+- **Java Development Kit (JDK):** Version 17 or higher recommended (JDK 17 or JDK 21)
 - **Terminal / Shell:** `zsh` or `bash`
 - **IDE (Optional):** IntelliJ IDEA, Eclipse, or Visual Studio Code
 
@@ -357,30 +477,76 @@ java -version
 
 All solutions are standalone Java classes organized by problem directory. You can compile and inspect any solution:
 
+#### 1. LeetCode Modules (Weeks 1 to 8)
 ```bash
-# Example 1: Week 1 - Sort Colors
+# Week 1: Dutch National Flag Sort Colors
 cd Week-1/0075-sort-colors
 javac solution.java
 
-# Example 2: Week 3 - Daily Temperatures
+# Week 3: Monotonic Daily Temperatures
 cd ../../Week-3/0739-daily-temperatures
 javac solution.java
 
-# Example 3: Week 4 - Sliding Window Maximum
+# Week 4: Sliding Window Maximum (Monotonic Deque)
 cd ../../Week-4/0239-sliding-window-maximum
 javac solution.java
 
-# Example 4: Week 5 - Binary Tree Inorder Traversal
-cd ../../Week-5/0094-binary-tree-inorder-traversal
+# Week 5: Tree Path Sum II (Backtracking)
+cd ../../Week-5/0113-path-sum-ii
 javac solution.java
 
-# Example 5: Week 5 - Path Sum II
-cd ../0113-path-sum-ii
-javac solution.java
-
-# Example 6: Week 6 - Find K Pairs with Smallest Sums
+# Week 6: Find K Pairs with Smallest Sums (Priority Queue)
 cd ../../Week-6/0373-find-k-pairs-with-smallest-sums
 javac solution.java
+
+# Week 8: Group Anagrams (Canonical Hashing)
+cd ../../Week-8/0049-group-anagrams
+javac solution.java
+
+# Week 8: Number of Islands (Grid DFS)
+cd ../0200-number-of-islands
+javac solution.java
+
+# Week 8: 01 Matrix (Multi-Source BFS)
+cd ../0542-01-matrix
+javac solution.java
+
+# Week 8: Accounts Merge (Disjoint Set Union)
+cd ../0721-accounts-merge
+javac solution.java
+
+# Week 8: Hierarchical Topological Sort
+cd ../1203-sort-items-by-groups-respecting-dependencies
+javac solution.java
+```
+
+#### 2. Applied Software Engineering Lab Experiments
+Each experiment in `Lab Tasks/` contains a fully executable `TaskX.java` with a `main` method and interactive/pre-configured test drivers:
+
+```bash
+# Exp 1: Salary Transformation System (Functional Streams)
+cd "Lab Tasks/01-Salary-Transformation-System"
+javac Task1.java && java Task1
+
+# Exp 2: Real-Time Stream Analytics Engine (Stream Aggregations)
+cd "../02-RealTime-Stream-Analytics-Engine"
+javac Task2.java && java Task2
+
+# Exp 3: Maximum Profit Analyzer (Kadane's Algorithm)
+cd "../03-Maximum-Profit-Analyzer-Kadane"
+javac Task3.java && java Task3
+
+# Exp 4: Intelligent DNA Pattern Search (KMP Algorithm)
+cd "../04-DNA-Pattern-Search-KMP"
+javac Task4.java && java Task4
+
+# Exp 5: Banking Transaction System (OOP & Encapsulation)
+cd "../05-Banking-Transaction-System-OOP"
+javac Task5.java && java Task5
+
+# Exp 6: Ride Sharing Platform Simulator (Polymorphism & Exceptions)
+cd "../06-RideSharing-Platform-Simulator"
+javac Task6.java && java Task6
 ```
 
 ---
@@ -388,6 +554,6 @@ javac solution.java
 <div align="center">
 
 **Applied Coding Skills (S1L10) — VTU29661**  
-*Curated & benchmarked for excellence in algorithmic problem solving.*
+*Curated & benchmarked for excellence in algorithmic problem solving and systems software engineering.*
 
 </div>
